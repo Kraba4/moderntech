@@ -1,0 +1,19 @@
+{
+  "name": "modern",
+  "version": "1.0.0",
+  "description": "agagagagag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kraba4/moderntech.git"
+  },
+  "author": "aleksey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kraba4/moderntech/issues"
+  },
+  "homepage": "https://github.com/Kraba4/moderntech#readme"
+}
